@@ -42,6 +42,9 @@ An ESP32-CAM based wireless surveillance robot designed for monitoring hazardous
 ### Battery Connection
 ![Battery Connection](Battery_connection.jpg)
 
+### Transmitter Connection
+![Transmitter Connection](Transmitter_connection.jpg)
+
 ---
 
 ## Source Code Files
@@ -52,11 +55,6 @@ An ESP32-CAM based wireless surveillance robot designed for monitoring hazardous
 
 ## Working Principle
 The robot uses Arduino for motor control and ESP32-CAM for wireless live video streaming. The system allows remote monitoring and navigation of the robot in hazardous environments using embedded and wireless communication technologies.
-
----
-
-## Demonstration
-ESP32-CAM live video streaming demonstration video uploaded in repository.
 
 ---
 
