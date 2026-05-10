@@ -47,6 +47,12 @@ An ESP32-CAM based wireless surveillance robot designed for monitoring hazardous
 
 ---
 
+## Demonstration Video
+
+[Click here to watch ESP32-CAM demo video](ESP32-CAM working.mp4)
+
+---
+
 ## Source Code Files
 - `robot_code.ino` → Controls robot movement
 - `esp32_cam_code.ino` → Handles ESP32-CAM video streaming
