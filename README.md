@@ -64,8 +64,3 @@ The robot uses Arduino for motor control and ESP32-CAM for wireless live video s
 - AI-based object detection
 - Night vision camera integration
 - Autonomous navigation
-
----
-
-## Author
-Developed as an embedded systems and IoT project for learning robotics, surveillance systems, and wireless communication.
