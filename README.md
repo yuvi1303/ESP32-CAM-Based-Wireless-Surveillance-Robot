@@ -49,7 +49,7 @@ An ESP32-CAM based wireless surveillance robot designed for monitoring hazardous
 
 ## Demonstration Video
 
-[Click here to watch ESP32-CAM demo video](ESP32-CAM working.mp4)
+[Watch Demo Video](./esp32_demo.mp4)
 
 ---
 
