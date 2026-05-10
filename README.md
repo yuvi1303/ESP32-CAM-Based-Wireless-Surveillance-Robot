@@ -30,7 +30,7 @@ An ESP32-CAM based wireless surveillance robot designed for monitoring hazardous
 
 ## Project Setup
 
-![Robot Setup](Robot.png)
+![Robot Setup](robot.png)
 
 ---
 
